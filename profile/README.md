@@ -2,7 +2,7 @@
 We are RDTeam, our main focus is creating any sorts of projects related to Ruchat in any way.
 
 ## Project(s):
-- [RNF] (https://github.com/Ruchat-Development-Team/Ruchat-Night-Funkin)
+- [RNF](https://github.com/Ruchat-Development-Team/Ruchat-Night-Funkin)
 
 ## Team:
 * Y0urD0ctor - Coder
